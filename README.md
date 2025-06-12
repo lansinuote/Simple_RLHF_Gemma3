@@ -9,3 +9,5 @@ transformers==4.50.3
 datasets==3.5.0
 
 accelerate==1.5.2
+
+2025年6月12日更新: 修改为多轮问答.
